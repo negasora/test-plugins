@@ -5,40 +5,6 @@
     ],
     "author": "Vector 35 Inc",
     "dependencies": {},
-    "description": "COMpanion is a plugin for Binary Ninja helps automate working with COM objects in Windows binaries.",
-    "installinstructions": {},
-    "lastUpdated": 1715958520,
-    "license": {
-      "name": "",
-      "text": "Copyright (c) 2024 Vector 35\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
-    },
-    "longdescription": "# COMpanion (v0.1.2)\nAuthor: **Vector 35 Inc**\n\n_COMpanion is a plugin for Binary Ninja helps automate working with COM objects in Windows binaries._\n\n## Description:\n\n\nNone\n\n## Minimum Version\n\nThis plugin requires the following minimum version of Binary Ninja:\n\n* 4860\n\n\n## License\n\nThis plugin is released under a MIT license.\n## Metadata Version\n\n2\n",
-    "minimumbinaryninjaversion": 4860,
-    "name": "COMpanion",
-    "packageUrl": "https://v35.us/kl78fv1",
-    "path": "Vector35_COMpanion",
-    "platforms": [
-      "Darwin",
-      "Linux",
-      "Windows"
-    ],
-    "pluginmetadataversion": 2,
-    "projectData": {
-      "stargazers_count": 0,
-      "updated_at": "2024-05-17 15:08:40.001005+00:00"
-    },
-    "projectUrl": "https://github.com/Vector35/COMpanion",
-    "type": [
-      "helper"
-    ],
-    "version": "0.1.2"
-  },
-  {
-    "api": [
-      "python3"
-    ],
-    "author": "Vector 35 Inc",
-    "dependencies": {},
     "description": "A Binary Ninja plugin that automatically resolves type information for EFI protocol usage.",
     "installinstructions": {},
     "lastUpdated": 1715958520,
