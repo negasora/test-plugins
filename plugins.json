@@ -5,6 +5,40 @@
     ],
     "author": "Vector 35 Inc",
     "dependencies": {},
+    "description": "COMpanion is a plugin for Binary Ninja helps automate working with COM objects in Windows binaries.",
+    "installinstructions": {},
+    "lastUpdated": 1715959832,
+    "license": {
+      "name": "",
+      "text": "Copyright (c) 2024 Vector 35\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+    },
+    "longdescription": "# COMpanion (v0.1.2)\nAuthor: **Vector 35 Inc**\n\n_COMpanion is a plugin for Binary Ninja helps automate working with COM objects in Windows binaries._\n\n## Description:\n\n\nNone\n\n## Minimum Version\n\nThis plugin requires the following minimum version of Binary Ninja:\n\n* 4860\n\n\n## License\n\nThis plugin is released under a MIT license.\n## Metadata Version\n\n2\n",
+    "minimumbinaryninjaversion": 4860,
+    "name": "COMpanion",
+    "packageUrl": "https://api.github.com/repos/Vector35/COMpanion/zipball/refs/tags/0.1.2",
+    "path": "Vector35_COMpanion",
+    "platforms": [
+      "Linux",
+      "Windows",
+      "Darwin"
+    ],
+    "pluginmetadataversion": 2,
+    "projectData": {
+      "stargazers_count": 0,
+      "updated_at": "2024-05-17 15:30:32.362046+00:00"
+    },
+    "projectUrl": "https://github.com/Vector35/COMpanion",
+    "type": [
+      "helper"
+    ],
+    "version": "0.1.2"
+  },
+  {
+    "api": [
+      "python3"
+    ],
+    "author": "Vector 35 Inc",
+    "dependencies": {},
     "description": "A Binary Ninja plugin that automatically resolves type information for EFI protocol usage.",
     "installinstructions": {},
     "lastUpdated": 1715958520,
@@ -18,9 +52,9 @@
     "packageUrl": "https://v35.us/xean4mt",
     "path": "Vector35_efiresolver",
     "platforms": [
-      "Darwin",
       "Linux",
-      "Windows"
+      "Windows",
+      "Darwin"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -54,9 +88,9 @@
     "packageUrl": "https://v35.us/po1rbzi",
     "path": "Vector35_unpacme",
     "platforms": [
-      "Darwin",
       "Linux",
-      "Windows"
+      "Windows",
+      "Darwin"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -88,9 +122,9 @@
     "packageUrl": "https://v35.us/unxv9k3",
     "path": "Vector35_tanto",
     "platforms": [
-      "Darwin",
       "Linux",
-      "Windows"
+      "Windows",
+      "Darwin"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -124,9 +158,9 @@
     "packageUrl": "https://v35.us/gbu6gmg",
     "path": "Vector35_6502",
     "platforms": [
-      "Darwin",
       "Linux",
-      "Windows"
+      "Windows",
+      "Darwin"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -158,9 +192,9 @@
     "packageUrl": "https://v35.us/ijt5m8d",
     "path": "Vector35_kaitai",
     "platforms": [
-      "Darwin",
       "Linux",
-      "Windows"
+      "Windows",
+      "Darwin"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -195,9 +229,9 @@
     "packageUrl": "https://v35.us/vjnjuhc",
     "path": "Vector35_snippets",
     "platforms": [
-      "Darwin",
       "Linux",
-      "Windows"
+      "Windows",
+      "Darwin"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -230,9 +264,9 @@
     "packageUrl": "https://v35.us/2rkokvo",
     "path": "Vector35_OpaquePredicatePatcher",
     "platforms": [
-      "Darwin",
       "Linux",
-      "Windows"
+      "Windows",
+      "Darwin"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -264,9 +298,9 @@
     "packageUrl": "https://v35.us/eutejwp",
     "path": "Vector35_sample_plugin",
     "platforms": [
-      "Darwin",
       "Linux",
-      "Windows"
+      "Windows",
+      "Darwin"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -305,9 +339,9 @@
     "packageUrl": "https://v35.us/1tu1dtg",
     "path": "Vector35_Z80",
     "platforms": [
-      "Darwin",
       "Linux",
-      "Windows"
+      "Windows",
+      "Darwin"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -342,9 +376,9 @@
     "packageUrl": "https://v35.us/xrqu8dz",
     "path": "Vector35_sigkit",
     "platforms": [
-      "Darwin",
       "Linux",
-      "Windows"
+      "Windows",
+      "Darwin"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
