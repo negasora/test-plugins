@@ -18,9 +18,9 @@
     "packageUrl": "https://api.github.com/repos/Vector35/COMpanion/zipball/refs/tags/0.1.2",
     "path": "Vector35_COMpanion",
     "platforms": [
-      "Linux",
       "Windows",
-      "Darwin"
+      "Darwin",
+      "Linux"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -52,9 +52,9 @@
     "packageUrl": "https://v35.us/xean4mt",
     "path": "Vector35_efiresolver",
     "platforms": [
-      "Linux",
       "Windows",
-      "Darwin"
+      "Darwin",
+      "Linux"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -88,9 +88,9 @@
     "packageUrl": "https://v35.us/po1rbzi",
     "path": "Vector35_unpacme",
     "platforms": [
-      "Linux",
       "Windows",
-      "Darwin"
+      "Darwin",
+      "Linux"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -122,9 +122,9 @@
     "packageUrl": "https://v35.us/unxv9k3",
     "path": "Vector35_tanto",
     "platforms": [
-      "Linux",
       "Windows",
-      "Darwin"
+      "Darwin",
+      "Linux"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -158,9 +158,9 @@
     "packageUrl": "https://v35.us/gbu6gmg",
     "path": "Vector35_6502",
     "platforms": [
-      "Linux",
       "Windows",
-      "Darwin"
+      "Darwin",
+      "Linux"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -192,9 +192,9 @@
     "packageUrl": "https://v35.us/ijt5m8d",
     "path": "Vector35_kaitai",
     "platforms": [
-      "Linux",
       "Windows",
-      "Darwin"
+      "Darwin",
+      "Linux"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -229,9 +229,9 @@
     "packageUrl": "https://v35.us/vjnjuhc",
     "path": "Vector35_snippets",
     "platforms": [
-      "Linux",
       "Windows",
-      "Darwin"
+      "Darwin",
+      "Linux"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -264,9 +264,9 @@
     "packageUrl": "https://v35.us/2rkokvo",
     "path": "Vector35_OpaquePredicatePatcher",
     "platforms": [
-      "Linux",
       "Windows",
-      "Darwin"
+      "Darwin",
+      "Linux"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -298,9 +298,9 @@
     "packageUrl": "https://v35.us/eutejwp",
     "path": "Vector35_sample_plugin",
     "platforms": [
-      "Linux",
       "Windows",
-      "Darwin"
+      "Darwin",
+      "Linux"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -339,9 +339,9 @@
     "packageUrl": "https://v35.us/1tu1dtg",
     "path": "Vector35_Z80",
     "platforms": [
-      "Linux",
       "Windows",
-      "Darwin"
+      "Darwin",
+      "Linux"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -376,9 +376,9 @@
     "packageUrl": "https://v35.us/xrqu8dz",
     "path": "Vector35_sigkit",
     "platforms": [
-      "Linux",
       "Windows",
-      "Darwin"
+      "Darwin",
+      "Linux"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
