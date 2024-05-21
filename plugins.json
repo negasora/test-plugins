@@ -9,7 +9,7 @@
     },
     "description": "Binary Ninja Sidekick",
     "installinstructions": {},
-    "lastUpdated": 1716314227,
+    "lastUpdated": 1716321356,
     "license": {
       "name": "Commercial",
       "text": "This plugin is fully copyright Vector 35 Inc except as otherwise noted in the source. While source is distributed, no rights to the source are granted beyond those to submodules described <a href='https://docs.sidekick.binary.ninja/about/open-source/'>here</a>. Use of this plugin should be consistent with the terms of service available <a href='https://docs.sidekick.binary.ninja/about/legal-terms-and-conditions/'>here</a>."
@@ -20,13 +20,13 @@
     "packageUrl": "https://plugin.sidekick.binary.ninja/plugins/sidekick-1.0.116.zip",
     "path": "Vector35_Sidekick",
     "platforms": [
-      "Windows",
       "Linux",
-      "Darwin"
+      "Darwin",
+      "Windows"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
-      "updated_at": "2024-05-21 17:57:07.351464+00:00"
+      "updated_at": "2024-05-21 19:55:56.508547+00:00"
     },
     "projectUrl": "https://github.com/vector35/sidekick-public",
     "type": [
@@ -43,7 +43,7 @@
     "dependencies": {},
     "description": "COMpanion is a plugin for Binary Ninja helps automate working with COM objects in Windows binaries.",
     "installinstructions": {},
-    "lastUpdated": 1716314227,
+    "lastUpdated": 1716321356,
     "license": {
       "name": "MIT",
       "text": "Copyright (c) 2024 Vector 35\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
@@ -54,14 +54,14 @@
     "packageUrl": "https://v35.us/kl78fv1",
     "path": "Vector35_COMpanion",
     "platforms": [
-      "Windows",
       "Linux",
-      "Darwin"
+      "Darwin",
+      "Windows"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
       "stargazers_count": 0,
-      "updated_at": "2024-05-21 17:57:07.375996+00:00"
+      "updated_at": "2024-05-21 19:55:56.539120+00:00"
     },
     "projectUrl": "https://github.com/Vector35/COMpanion",
     "type": [
@@ -77,7 +77,7 @@
     "dependencies": {},
     "description": "A Binary Ninja plugin that automatically resolves type information for EFI protocol usage.",
     "installinstructions": {},
-    "lastUpdated": 1716314227,
+    "lastUpdated": 1716321356,
     "license": {
       "name": "Apache-2.0",
       "text": "Copyright 2023 Vector 35 Inc.\n\nLicensed under the Apache License, Version 2.0 (the \"License\");\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License at\n\nhttp://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \"AS IS\" BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License."
@@ -88,14 +88,14 @@
     "packageUrl": "https://v35.us/xean4mt",
     "path": "Vector35_efiresolver",
     "platforms": [
-      "Windows",
       "Linux",
-      "Darwin"
+      "Darwin",
+      "Windows"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
       "stargazers_count": 0,
-      "updated_at": "2024-05-21 17:57:07.391570+00:00"
+      "updated_at": "2024-05-21 19:55:56.558196+00:00"
     },
     "projectUrl": "https://github.com/Vector35/efi-resolver",
     "type": [
@@ -113,7 +113,7 @@
     },
     "description": "Automatically analyze a binary via unpac.me",
     "installinstructions": {},
-    "lastUpdated": 1716314227,
+    "lastUpdated": 1716321356,
     "license": {
       "name": "MIT",
       "text": "Copyright (c) 2019 Vector 35 Inc\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
@@ -124,14 +124,14 @@
     "packageUrl": "https://v35.us/po1rbzi",
     "path": "Vector35_unpacme",
     "platforms": [
-      "Windows",
       "Linux",
-      "Darwin"
+      "Darwin",
+      "Windows"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
       "stargazers_count": 0,
-      "updated_at": "2024-05-21 17:57:07.408270+00:00"
+      "updated_at": "2024-05-21 19:55:56.577071+00:00"
     },
     "projectUrl": "https://github.com/Vector35/unpacme",
     "type": [
@@ -147,7 +147,7 @@
     "dependencies": {},
     "description": "Tant\u014d slices functions to help you can understand them faster.",
     "installinstructions": {},
-    "lastUpdated": 1716314227,
+    "lastUpdated": 1716321356,
     "license": {
       "name": "MIT",
       "text": "Copyright (c) 2021-2022 Vector 35 Inc\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
@@ -158,14 +158,14 @@
     "packageUrl": "https://v35.us/unxv9k3",
     "path": "Vector35_tanto",
     "platforms": [
-      "Windows",
       "Linux",
-      "Darwin"
+      "Darwin",
+      "Windows"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
       "stargazers_count": 0,
-      "updated_at": "2024-05-21 17:57:07.425584+00:00"
+      "updated_at": "2024-05-21 19:55:56.596921+00:00"
     },
     "projectUrl": "https://github.com/Vector35/tanto",
     "type": [
@@ -183,7 +183,7 @@
     "dependencies": {},
     "description": "An architecture plugin for 6502 and binary view for NES roms.",
     "installinstructions": {},
-    "lastUpdated": 1716314227,
+    "lastUpdated": 1716321356,
     "license": {
       "name": "MIT",
       "text": "Copyright (c) 2019 Vector 35 Inc\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
@@ -194,14 +194,14 @@
     "packageUrl": "https://v35.us/gbu6gmg",
     "path": "Vector35_6502",
     "platforms": [
-      "Windows",
       "Linux",
-      "Darwin"
+      "Darwin",
+      "Windows"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
       "stargazers_count": 0,
-      "updated_at": "2024-05-21 17:57:07.441692+00:00"
+      "updated_at": "2024-05-21 19:55:56.616514+00:00"
     },
     "projectUrl": "https://github.com/Vector35/6502",
     "type": [
@@ -217,7 +217,7 @@
     "dependencies": {},
     "description": "Browse hex with a tree view populated from Kaitai Struct formats.",
     "installinstructions": {},
-    "lastUpdated": 1716314227,
+    "lastUpdated": 1716321356,
     "license": {
       "name": "MIT",
       "text": "Copyright (c) 2019-2022 Vector 35 Inc\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
@@ -228,14 +228,14 @@
     "packageUrl": "https://v35.us/ijt5m8d",
     "path": "Vector35_kaitai",
     "platforms": [
-      "Windows",
       "Linux",
-      "Darwin"
+      "Darwin",
+      "Windows"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
       "stargazers_count": 0,
-      "updated_at": "2024-05-21 17:57:07.456287+00:00"
+      "updated_at": "2024-05-21 19:55:56.635193+00:00"
     },
     "projectUrl": "https://github.com/Vector35/kaitai",
     "type": [
@@ -249,12 +249,10 @@
       "python3"
     ],
     "author": "Vector 35 Inc",
-    "dependencies": {
-      "pip": "pygments>=2.7.0\n"
-    },
+    "dependencies": {},
     "description": "Powerful code-editing plugin for writing and managing python code-snippets with syntax highlighting, hotkey binding and other features",
     "installinstructions": {},
-    "lastUpdated": 1716314227,
+    "lastUpdated": 1716321683,
     "license": {
       "name": "MIT",
       "text": "Copyright (c) 2019 Vector 35 Inc\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
@@ -262,17 +260,17 @@
     "longdescription": "The snippet editor started as a simple example UI plugin to demonstrate new features available to UI plugins. It has turned into a functionally useful plugin in its own right. The snippet editor allows you to write small bits of code that might not be big enough to warrant the effort of a full plugin but are long enough that you don't want to retype them every time in the python-console!\n\nAs an added bonus, all snippets are added to the snippets menu and hot-keys can be associated with them as they make use of the action system. All action-system items are also available through the command-palette (CTL/CMD-p).\n\n![](https://github.com/Vector35/snippets/blob/master/media/snippets.gif?raw=true)\n\n.",
     "minimumbinaryninjaversion": 1528,
     "name": "Snippet UI Plugin",
-    "packageUrl": "https://v35.us/vjnjuhc",
+    "packageUrl": "https://api.github.com/repos/Vector35/snippets/zipball/refs/tags/1.25",
     "path": "Vector35_snippets",
     "platforms": [
-      "Windows",
       "Linux",
-      "Darwin"
+      "Darwin",
+      "Windows"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
       "stargazers_count": 0,
-      "updated_at": "2024-05-21 17:57:07.470758+00:00"
+      "updated_at": "2024-05-21 20:01:23.478339+00:00"
     },
     "projectUrl": "https://github.com/Vector35/snippets",
     "type": [
@@ -289,7 +287,7 @@
     "dependencies": {},
     "description": "Automatically patch opaque predicates",
     "installinstructions": {},
-    "lastUpdated": 1716314227,
+    "lastUpdated": 1716321356,
     "license": {
       "name": "MIT",
       "text": "Copyright (c) 2017 Vector 35 Inc\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
@@ -300,14 +298,14 @@
     "packageUrl": "https://v35.us/2rkokvo",
     "path": "Vector35_OpaquePredicatePatcher",
     "platforms": [
-      "Windows",
       "Linux",
-      "Darwin"
+      "Darwin",
+      "Windows"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
       "stargazers_count": 0,
-      "updated_at": "2024-05-21 17:57:07.485333+00:00"
+      "updated_at": "2024-05-21 19:55:56.672639+00:00"
     },
     "projectUrl": "https://github.com/Vector35/OpaquePredicatePatcher",
     "type": [
@@ -323,7 +321,7 @@
     "dependencies": {},
     "description": "This is a short description meant to fit on one line.",
     "installinstructions": {},
-    "lastUpdated": 1716314227,
+    "lastUpdated": 1716321356,
     "license": {
       "name": "MIT",
       "text": "Copyright (c) <year> <copyright holders>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
@@ -334,14 +332,14 @@
     "packageUrl": "https://v35.us/eutejwp",
     "path": "Vector35_sample_plugin",
     "platforms": [
-      "Windows",
       "Linux",
-      "Darwin"
+      "Darwin",
+      "Windows"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
       "stargazers_count": 0,
-      "updated_at": "2024-05-21 17:57:07.502827+00:00"
+      "updated_at": "2024-05-21 19:55:56.697749+00:00"
     },
     "projectUrl": "https://github.com/Vector35/sample_plugin",
     "type": [
@@ -364,7 +362,7 @@
     },
     "description": "Sample Z80 architecture plugin written to accompany the <a href='https://binary.ninja/2020/01/08/guide-to-architecture-plugins-part1.html'>introductory blog post</a>.",
     "installinstructions": {},
-    "lastUpdated": 1716314227,
+    "lastUpdated": 1716321356,
     "license": {
       "name": "MIT",
       "text": "Copyright (c) 2017 Vector 35 Inc\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
@@ -375,14 +373,14 @@
     "packageUrl": "https://v35.us/1tu1dtg",
     "path": "Vector35_Z80",
     "platforms": [
-      "Windows",
       "Linux",
-      "Darwin"
+      "Darwin",
+      "Windows"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
       "stargazers_count": 0,
-      "updated_at": "2024-05-21 17:57:07.517474+00:00"
+      "updated_at": "2024-05-21 19:55:56.721662+00:00"
     },
     "projectUrl": "https://github.com/Vector35/Z80",
     "type": [
@@ -401,7 +399,7 @@
     },
     "description": "Python tools for working with Signature Libraries",
     "installinstructions": {},
-    "lastUpdated": 1716314227,
+    "lastUpdated": 1716321356,
     "license": {
       "name": "MIT",
       "text": "Copyright (c) 2019-2020 Vector 35 Inc\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
@@ -412,14 +410,14 @@
     "packageUrl": "https://v35.us/xrqu8dz",
     "path": "Vector35_sigkit",
     "platforms": [
-      "Windows",
       "Linux",
-      "Darwin"
+      "Darwin",
+      "Windows"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
       "stargazers_count": 0,
-      "updated_at": "2024-05-21 17:57:07.533711+00:00"
+      "updated_at": "2024-05-21 19:55:56.746413+00:00"
     },
     "projectUrl": "https://github.com/Vector35/sigkit",
     "type": [
