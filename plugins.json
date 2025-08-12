@@ -20,8 +20,8 @@
     "path": "Vector35_Sidekick",
     "platforms": [
       "Darwin",
-      "Linux",
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -56,8 +56,8 @@
     "path": "Vector35_unpacme",
     "platforms": [
       "Darwin",
-      "Linux",
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -92,8 +92,8 @@
     "path": "Vector35_kaitai",
     "platforms": [
       "Darwin",
-      "Linux",
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -129,8 +129,8 @@
     "path": "Vector35_snippets",
     "platforms": [
       "Darwin",
-      "Linux",
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -166,8 +166,8 @@
     "path": "Vector35_sigkit",
     "platforms": [
       "Darwin",
-      "Linux",
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -204,8 +204,8 @@
     "path": "Vector35_COMpanion",
     "platforms": [
       "Darwin",
-      "Linux",
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -240,8 +240,8 @@
     "path": "Vector35_efiresolver",
     "platforms": [
       "Darwin",
-      "Linux",
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -276,8 +276,8 @@
     "path": "Vector35_tanto",
     "platforms": [
       "Darwin",
-      "Linux",
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -314,8 +314,8 @@
     "path": "Vector35_6502",
     "platforms": [
       "Darwin",
-      "Linux",
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -351,8 +351,8 @@
     "path": "Vector35_OpaquePredicatePatcher",
     "platforms": [
       "Darwin",
-      "Linux",
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -387,8 +387,8 @@
     "path": "Vector35_sample_plugin",
     "platforms": [
       "Darwin",
-      "Linux",
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
@@ -428,8 +428,8 @@
     "path": "Vector35_Z80",
     "platforms": [
       "Darwin",
-      "Linux",
-      "Windows"
+      "Windows",
+      "Linux"
     ],
     "pluginmetadataversion": 2,
     "projectData": {
